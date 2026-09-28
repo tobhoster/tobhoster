@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="312" viewBox="0 0 760 312" role="img" aria-labelledby="t d">
+  <title id="t">Hey, I'm Tobi</title>
+  <desc id="d">An editor window with a README.md tab. Line 1: $ echo "Hey, I'm Tobi". role: SDE II at Amazon, New York. builds: Rust, Go, TypeScript. now: building WingWrangler. offline: aviation, CrossFit. The status bar reads main and tobhoster.com.</desc>
+  <style>
+    text { font-family: ui-monospace, "JetBrains Mono", SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; white-space: pre; }
+    .cursor { animation: blink 1s step-end 4; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="frame"><rect width="760" height="312" rx="10"/></clipPath>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#61afef"/><stop offset="1" stop-color="#c678dd"/></linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="760" height="312" fill="#1e1e1e"/>
+    <rect width="760" height="40" fill="#181818"/>
+    <circle cx="22" cy="20" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="20" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="20" r="6" fill="#28c840"/>
+    <rect x="88" y="0" width="136" height="40" fill="#1e1e1e"/>
+    <rect x="88" y="0" width="136" height="2" fill="url(#accent)"/>
+    <text x="156" y="26" font-size="17" fill="#d7dae0" text-anchor="middle">README.md</text>
+    <text x="740" y="26" font-size="17" fill="#848b98" text-anchor="end">~/tobhoster</text>
+    <text x="50" y="88" font-size="18" fill="#848b98" text-anchor="end">1</text>
+    <text x="72" y="88" font-size="34" textLength="448.8" lengthAdjust="spacing"><tspan fill="#98c379">$</tspan><tspan fill="#61afef"> echo</tspan><tspan fill="#98c379"> &quot;Hey, I'm Tobi&quot;</tspan></text>
+    <rect class="cursor" x="528.8" y="61" width="16" height="34" fill="#61afef"/>
+    <text x="50" y="134" font-size="18" fill="#848b98" text-anchor="end">2</text>
+    <text x="72" y="134" font-size="30" textLength="90.0" lengthAdjust="spacing"><tspan fill="#c678dd">role</tspan><tspan fill="#848b98">:</tspan></text>
+    <text x="234" y="134" font-size="30" textLength="468.0" lengthAdjust="spacing"><tspan fill="#d7dae0">SDE II @ Amazon</tspan><tspan fill="#848b98"> · </tspan><tspan fill="#d7dae0">New York</tspan></text>
+    <text x="50" y="178" font-size="18" fill="#848b98" text-anchor="end">3</text>
+    <text x="72" y="178" font-size="30" textLength="126.0" lengthAdjust="spacing"><tspan fill="#c678dd">builds</tspan><tspan fill="#848b98">:</tspan></text>
+    <text x="234" y="178" font-size="30" textLength="396.0" lengthAdjust="spacing"><tspan fill="#d7dae0">Rust</tspan><tspan fill="#848b98"> · </tspan><tspan fill="#d7dae0">Go</tspan><tspan fill="#848b98"> · </tspan><tspan fill="#d7dae0">TypeScript</tspan></text>
+    <text x="50" y="222" font-size="18" fill="#848b98" text-anchor="end">4</text>
+    <text x="72" y="222" font-size="30" textLength="72.0" lengthAdjust="spacing"><tspan fill="#c678dd">now</tspan><tspan fill="#848b98">:</tspan></text>
+    <text x="234" y="222" font-size="30" textLength="378.0" lengthAdjust="spacing"><tspan fill="#d7dae0">building WingWrangler</tspan></text>
+    <path transform="translate(626.0 197.1) scale(1.2)" fill="#61afef" d="M22.6 12c0-.95-.95-1.35-2.1-1.35h-6L9.2 3H6.9l3 7.65H4.7L2.9 8.1H1.3l1.15 3.9L1.3 15.9h1.6l1.8-2.55h5.2L6.9 21h2.3l5.3-7.65h6c1.15 0 2.1-.4 2.1-1.35z"/>
+    <text x="50" y="266" font-size="18" fill="#848b98" text-anchor="end">5</text>
+    <text x="72" y="266" font-size="30" textLength="144.0" lengthAdjust="spacing"><tspan fill="#c678dd">offline</tspan><tspan fill="#848b98">:</tspan></text>
+    <text x="234" y="266" font-size="30" textLength="342.0" lengthAdjust="spacing"><tspan fill="#d7dae0">aviation</tspan><tspan fill="#848b98"> · </tspan><tspan fill="#d7dae0">CrossFit</tspan></text>
+    <rect x="716.0" y="60.0" width="2.0" height="4" rx="1" fill="#98c379" opacity="0.22"/>
+    <rect x="720.0" y="60.0" width="5.2" height="4" rx="1" fill="#61afef" opacity="0.22"/>
+    <rect x="727.2" y="60.0" width="11.6" height="4" rx="1" fill="#98c379" opacity="0.22"/>
+    <rect x="716.0" y="72.9" width="10.0" height="4" rx="1" fill="#c678dd" opacity="0.22"/>
+    <rect x="728.0" y="72.9" width="24.0" height="4" rx="1" fill="#d7dae0" opacity="0.22"/>
+    <rect x="716.0" y="85.2" width="10.0" height="4" rx="1" fill="#c678dd" opacity="0.22"/>
+    <rect x="728.0" y="85.2" width="18.0" height="4" rx="1" fill="#d7dae0" opacity="0.22"/>
+    <rect x="716.0" y="97.5" width="8.0" height="4" rx="1" fill="#c678dd" opacity="0.22"/>
+    <rect x="726.0" y="97.5" width="19.2" height="4" rx="1" fill="#d7dae0" opacity="0.22"/>
+    <rect x="716.0" y="109.8" width="10.0" height="4" rx="1" fill="#c678dd" opacity="0.22"/>
+    <rect x="728.0" y="109.8" width="14.0" height="4" rx="1" fill="#d7dae0" opacity="0.22"/>
+    <rect x="0" y="282" width="760" height="30" fill="#007acc"/>
+    <g fill="none" stroke="#ffffff" stroke-width="1.4" transform="translate(16 288.5) scale(1.15)"><circle cx="3" cy="2.5" r="2.2"/><circle cx="3" cy="12.5" r="2.2"/><circle cx="11" cy="4.5" r="2.2"/><path d="M3 4.7v5.6M11 6.7c0 3.2-8 1.8-8 3.6"/></g>
+    <text x="38" y="302" font-size="17" fill="#ffffff">main</text>
+    <text x="742" y="302" font-size="17" fill="#ffffff" text-anchor="end">tobhoster.com</text>
+  </g>
+  <rect x="0.5" y="0.5" width="759" height="311" rx="10" fill="none" stroke="#3e4451"/>
+</svg>
